@@ -17,9 +17,9 @@ Files must be executed in the following order:
 
 It is expected that all the required libraries must be installed namely Tensorflow, skimage etc.
 All  the codes are written in python.
-Machine details
-Windows 10
-GTX 1060 6GB GPU,
-Intel core i7 Processor 
-64 GB RAM
-2 TB HDD
+Machine details:
+1. Windows 10
+2. GTX 1060 6GB GPU,
+3. Intel core i7 Processor 
+4. 64 GB RAM
+5. 2 TB HDD
