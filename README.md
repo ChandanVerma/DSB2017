@@ -2,7 +2,7 @@
 This repo explains us how to build a Convolutional neural network in Tensorflow for Medical Imaging.
 The Solution is for Kaggle competition Data Science Bowl 2017.
 
-# Problem statement : Build an Algorithm that accuratelu classifies a given CT scan into cancerous or not.
+# Problem statement : Build an Algorithm that is able to classifies a given dicom image from CT modality into cancerous or non-cancerous.
 
 The code files are provided in the above section:
 
